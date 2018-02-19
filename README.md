@@ -1,0 +1,1 @@
+# Wagical-Place-Price-Checker
